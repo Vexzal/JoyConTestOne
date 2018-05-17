@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoyConTestOne", "JoyConTestOne\JoyConTestOne.csproj", "{7AC8C776-B91B-4635-8610-6D56D66C740F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC8C776-B91B-4635-8610-6D56D66C740F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8C776-B91B-4635-8610-6D56D66C740F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8C776-B91B-4635-8610-6D56D66C740F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8C776-B91B-4635-8610-6D56D66C740F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE4C79F-58DA-4F99-9C2A-6B9C5EEE96E4}
+	EndGlobalSection
+EndGlobal
